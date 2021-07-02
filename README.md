@@ -15,15 +15,19 @@
 
 
 https://www.tensorflow.org/install/source_windows?hl=zh-tw
+
 了解你的tensorflow版本，並找尋所需要的CUDA、cuDNN版本
 
 https://docs.floydhub.com/guides/environments/
+
 了解你的keras與tensorflow所適配之版本，也可看torch
 
 https://pytorch.org/get-started/previous-versions/
+
 了解你的環境與torch所適配之版本
 
 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+
 conda cheat sheet下載
 
 ### <第一步> 
