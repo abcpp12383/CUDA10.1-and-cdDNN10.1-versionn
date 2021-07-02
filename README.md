@@ -62,26 +62,23 @@ https://developer.nvidia.com/rdp/cudnn-archive
 ### <第三步> 在你創的環境名稱下面，安裝你想要的套件
 開啟CMD
 
-一、先激活你命名的"torch"環境
+#### 一、先激活你命名的"torch"環境
 
     conda activate torch
 
-二、等待出現(torch) C:\Windows\system32
+#### 二、等待出現(torch) C:\Windows\system32
 
-三、在你命名的"torch"環境中，下載torch版本1.4.0 
+#### 三、在你命名的"torch"環境中，下載pytorch版本1.4.0 和
 
-    conda install pytorch==1.4.0 
+    conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch
 
-四、在你命名的"torch"環境中，下載torchvision版本0.5.0
-    
-    pip install torchvision==0.5.0 
+
 
 
 
 ```
 此區是作者安裝的套件部分
-conda install pytorch==1.4.0
-conda install torchvision==0.5.0
+conda install pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch
 pip install visdom==0.1.8.9
 pip install OpenCV-Python==4.5.2.52
 pip install pip install matplotlib
