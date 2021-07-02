@@ -41,8 +41,33 @@ https://developer.nvidia.com/cuda-toolkit-archive
 
 https://developer.nvidia.com/rdp/cudnn-archive
 尋找你要的cuDNN版本，並下載。
-##下載後解壓縮
+##### 圖示
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/2.png)
 
+##### 下載後解壓縮
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/3.png)
+##### 開啟CUDA資料夾，點開最下面的程式setup.exe，即可開始安裝
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/5.png)
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/6.png)
+##### 只要勾選CUDA
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/7.png)
+##### 不更改設定
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/8.png)
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/9.png)
+#### 接下來要
+###### 打開C槽的CUDA的v10.1資料夾
+
+###### C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/10.png)
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/11.png)
+##### 開始複製cudnn-10.1-windows10-x64-v7.6.3.30內的檔案
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/12.png)
+##### 貼到C槽的CUDA的v10.1資料夾來做覆寫
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/13.png)
+##### 結果圖
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/13end.png)
+##### 開啟環境變數，檢查CUDA_PATH是不是v10.1的部分(筆者有先安裝過v10.0，所以下面可以看到v10.0)
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/14.png)
 
 ### <第二步> 創你想要的環境名稱
 開啟CMD，再輸入下面的部分
