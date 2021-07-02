@@ -45,13 +45,13 @@ https://developer.nvidia.com/rdp/cudnn-archive
 
 ----------------創環境名稱------(方法一)--------------------------
 
-conda create --name your_env_name python=3.6
+    conda create --name your_env_name python=3.6
 
 注意!!!!your_env_name 是你想要的名稱 我這邊打「torch」
 
 ----------------創環境名稱------(方法二)---------((建議使用))-----
 
-conda create --name your_env_name python=3.6 anaconda
+    conda create --name your_env_name python=3.6 anaconda
 
 此方法可直接將連結附在Windows 10工具列內 
 
@@ -60,26 +60,28 @@ conda create --name your_env_name python=3.6 anaconda
 
 一、先激活你命名的"torch"環境
 
-conda activate torch
+    conda activate torch
 
 二、等待出現(torch) C:\Windows\system32
 
 三、在你命名的"torch"環境中，下載torch版本1.4.0 
 
-conda install pytorch==1.4.0 
+    conda install pytorch==1.4.0 
 
-四、在你命名的"torch"環境中，下載torchvision版本0.5.0 
-
-conda install torchvision==0.5.0 
+四、在你命名的"torch"環境中，下載torchvision版本0.5.0
+    
+    conda install torchvision==0.5.0 
 
 
 
 ```
+此區是作者安裝的套件部分
 conda install pytorch==1.4.0
 conda install torchvision==0.5.0
 pip install visdom==0.1.8.9
 pip install OpenCV-Python==4.5.2.52
-pip install 
+pip install pip install matplotlib
+pip install jupyter notebook
 ```
 ----------------------附記-----------------------------------
 
@@ -89,13 +91,13 @@ pip install
 
 這時候安裝擴充套件包即可：
 
-pip install opencv-python
+    pip install opencv-python
 ----------------------附記-----------------------------------
 
 想要使用jupyter 請一定要自己安裝擴充套件包即可:
 
-pip install jupyter notebook
+    pip install jupyter notebook
 
 其他必要的
 
-pip install matplotlib
+    pip install matplotlib
