@@ -2,7 +2,7 @@
 測試使用環境架設，基於使用我的環境： Windows 10 CUDA 10.1 Anaconda 3  pytorch ==1.4.0 torchvision == 0.5.0 visdom == 0.1.8.9 OpenCV-Python == 4.5.2.52
 
 
-### <首先，第一步> 
+### <前言> 
 先了解你的顯卡是多少，找出你下載顯卡的驅動版本。(此部分請看其他網站解釋)
 
 接著！自己下載anaconda。網址：https://www.anaconda.com/products/individual
@@ -23,7 +23,10 @@ https://docs.floydhub.com/guides/environments/
 https://pytorch.org/get-started/previous-versions/
 了解你的環境與torch所適配之版本
 
+https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+conda cheat sheet下載
 
+### <第一步> 
 ```
 已知
 我所需要的 pytorch 1.4.0
@@ -38,6 +41,7 @@ https://developer.nvidia.com/cuda-toolkit-archive
 
 https://developer.nvidia.com/rdp/cudnn-archive
 尋找你要的cuDNN版本，並下載。
+##下載後解壓縮
 
 
 ### <第二步> 創你想要的環境名稱
