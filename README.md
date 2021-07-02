@@ -30,6 +30,7 @@ cdDNN 10.1
 
 
 ```
+![image](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-07-02%20155921.png)
 
 ### <第二步> 
 https://developer.nvidia.com/cuda-toolkit-archive
@@ -39,7 +40,8 @@ https://developer.nvidia.com/rdp/cudnn-archive
 尋找你要的cuDNN版本，並下載。
 
 
-
+### <第三步> 
+查看你的
 
 
 
