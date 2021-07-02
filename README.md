@@ -74,7 +74,7 @@ https://developer.nvidia.com/rdp/cudnn-archive
 
 四、在你命名的"torch"環境中，下載torchvision版本0.5.0
     
-    conda install torchvision==0.5.0 
+    pip install torchvision==0.5.0 
 
 
 
