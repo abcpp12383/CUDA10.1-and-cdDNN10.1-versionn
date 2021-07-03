@@ -37,7 +37,7 @@ conda cheat sheet下載
 CUDA 10.1
 cdDNN 10.1
 ```
-![image](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-07-02%20155921.png)
+![github](https://github.com/abcpp12383/CUDA10.1-and-cdDNN10.1-versionn/blob/main/picture/1.png)
 
 
 https://developer.nvidia.com/cuda-toolkit-archive
