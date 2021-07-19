@@ -7,7 +7,7 @@
 
 接著！自己下載anaconda。網址：https://www.anaconda.com/products/individual
 
-尋找你所需要的CUDA版本，利用CUDA找出對應的cdDNN。(我們著重的重點)
+尋找你所需要的CUDA版本，利用CUDA找出對應的cuDNN。(我們著重的重點)
 
 (ps：當然有時候不一定是CUDA 10.1對應cuDNN 10.1，有可能如下example所示) 
 
