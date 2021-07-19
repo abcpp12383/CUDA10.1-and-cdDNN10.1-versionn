@@ -9,7 +9,7 @@
 
 尋找你所需要的CUDA版本，利用CUDA找出對應的cdDNN。(我們著重的重點)
 
-(ps：當然有時候不一定是CUDA 10.1對應cuDNN 10.1，有可能如下example所示)
+(ps：當然有時候不一定是CUDA 10.1對應cuDNN 10.1，有可能如下example所示) 
 
 (ex：tensorflow_gpu-1.12.0*→*python版本3.5-3.6*→*cdDNN 7.2	*→* CUDA 9.0)
 
